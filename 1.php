@@ -7,7 +7,7 @@
 </head>
 <body>
     <?php
-        echo "dwa";
+        echo "dwaitrzy";
     ?>
 </body>
 </html>
